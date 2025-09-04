@@ -122,10 +122,7 @@ This project demonstrates proficiency in:
 7. **Error Handling**: Implementing robust error handling and user feedback
 8. **Modern Tooling**: Using Vite, Tailwind CSS, and modern development tools
 
-## 📄 License
-
-This project is created for educational purposes as part of the Elevvo Internship Program.
 
 ---
 
-*This project represents the culmination of skills learned during the Elevvo Internship Program, showcasing modern React development practices and professional dashboard design.*
+*This project represents the culmination of skills learned during the Elevvo Internship Program.
