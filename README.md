@@ -71,7 +71,7 @@ This project was developed as part of the Elevvo Internship Program - Task 6, fo
 ### Installation Steps
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:ahmed-226/WorkSphere.git  
 cd WorkSphere
 
 npm install
